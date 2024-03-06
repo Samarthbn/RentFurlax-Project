@@ -1,0 +1,61 @@
+.order-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    color: #333;
+  }
+  .order-page h1{
+    text-align: center;
+  }
+  .order-page h2,
+  .order-page h3 {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .order-page p {
+    color: #666;
+    line-height: 1.6;
+  }
+  
+ 
+  .order-page p {
+    font-style: italic;
+  }
+  
+  .invoice-details {
+    background-color: #f9f9f9;
+    border: 1px solid #e1e1e1;
+    border-radius: 4px;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .invoice-details h3 {
+    color: #333;
+    border-bottom: 1px solid #e1e1e1;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+  }
+  
+  .invoice-details p {
+    margin: 10px 0;
+  }
+  
+  
+  
+  .button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-block;
+    margin-top: 10px;
+  }
+  
+  .button:hover {
+    background-color: #0056b3;
+  }

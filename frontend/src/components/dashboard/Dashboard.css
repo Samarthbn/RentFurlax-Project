@@ -1,0 +1,51 @@
+.dashboard {
+  padding: 20px;
+}
+
+.dashboard h1 {
+  text-align: center;
+  font-size: 24px; 
+}
+
+.menu {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.categories {
+  display: flex;
+  margin: 20px auto;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.category-card {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  margin: 15px;
+  padding: 10px;
+  width: 350px; 
+}
+
+.category-card h3 {
+  margin-top: 0;
+  font-size: 18px; 
+}
+
+.category-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 2px; 
+}
+
+.category-card button {
+  background-color: #007bff; 
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 2px; 
+  cursor: pointer;
+  width: 100%;
+  margin-top: 10px; 
+  box-shadow: none; 
+}

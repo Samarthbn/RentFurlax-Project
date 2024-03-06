@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "65d48352109fa4fe04b0b7e6"
+  },
+  "type": "book",
+  "image": "myProject/static/book.jpg"
+},
+{
+  "_id": {
+    "$oid": "65d494ca604c8eb8afb97ca1"
+  },
+  "type": "study",
+  "image": "myProject/static/study.jpg"
+},
+{
+  "_id": {
+    "$oid": "65d49638604c8eb8afb97ca3"
+  },
+  "type": "kitchen",
+  "image": "myProject/static/kitchen.jpg"
+}]

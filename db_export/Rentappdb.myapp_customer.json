@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "65d4ddcd3b8bc13c127c5b7b"
+  },
+  "id": 1,
+  "first_name": "Akash",
+  "last_name": "Rajkumar",
+  "username": "akash",
+  "email": "akash@gmail.com",
+  "phone": "7894561230",
+  "address": "Bangalore",
+  "password": "akash",
+  "last_logged_in": {
+    "$date": "2024-03-05T12:39:14.737Z"
+  },
+  "date_created": {
+    "$date": "2024-02-20T17:13:49.866Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65dd772078d7ee6e60541abb"
+  },
+  "id": 2,
+  "first_name": "vivek",
+  "last_name": "s",
+  "username": "vivek",
+  "email": "vivek@gmail.com",
+  "phone": "1478523699",
+  "address": "shimoga",
+  "password": "vivek",
+  "last_logged_in": {
+    "$date": "2024-02-27T06:27:25.369Z"
+  },
+  "date_created": {
+    "$date": "2024-02-27T05:46:08.418Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65de30176461938c5650b1d6"
+  },
+  "id": 3,
+  "first_name": "sam",
+  "last_name": "sam",
+  "username": "sam",
+  "email": "sam@gmail.com",
+  "phone": "8373636363763",
+  "address": "sajahahaahh",
+  "password": "pbkdf2_sha256$390000$oknabSUHYLuuedjNuqWNsY$4eOGNed7XvSAFyvaXs7jX1/Cwj2WPjkqHI81Wh7xvV0=",
+  "last_logged_in": {
+    "$date": "2024-02-27T20:56:47.050Z"
+  },
+  "date_created": {
+    "$date": "2024-02-27T18:55:19.440Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65df12f4717754ef3eb178d8"
+  },
+  "id": 4,
+  "first_name": "samarth",
+  "last_name": "bn",
+  "username": "samarth",
+  "email": "samarth@gmail.com",
+  "phone": "998899880",
+  "address": "shimoga",
+  "password": "pbkdf2_sha256$390000$PtGpn9JwFEbWPofMpjLZPy$na5BXD9uXjxwCwXTEfk0/aJiidwOwpxsGPD7K+SVhXE=",
+  "last_logged_in": {
+    "$date": "2024-02-28T14:15:17.883Z"
+  },
+  "date_created": {
+    "$date": "2024-02-28T11:03:16.975Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65e7f7fb45fe4f52ce76be5e"
+  },
+  "id": 5,
+  "first_name": "Arun",
+  "last_name": "V R",
+  "username": "Arun",
+  "email": "arunvr@gmail.com",
+  "phone": "998899889",
+  "address": "Shimoga",
+  "password": "pbkdf2_sha256$390000$bQiASNvaVecqYwW60Wv0tL$A1jgh8z/B5o6f89HqoE8SRSEZTaigPTaac+d6Fn+Q90=",
+  "last_logged_in": {
+    "$date": "2024-03-06T04:59:23.066Z"
+  },
+  "date_created": {
+    "$date": "2024-03-06T04:58:35.636Z"
+  }
+}]

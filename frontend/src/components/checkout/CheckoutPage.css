@@ -1,0 +1,88 @@
+.checkout-container {
+  max-width: 1200px; 
+  margin: 0 auto; 
+  padding: 16px;
+}
+
+.checkout-container h2 {
+  text-align: center;
+  margin-bottom: 30px; 
+}
+
+.checkout-container ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex; 
+  flex-wrap: wrap; 
+  gap: 16px; 
+  justify-content: center; 
+}
+
+.item-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin-top: 30px;
+  max-width: 300px; 
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+
+.item-image img {
+  width: 100%; 
+  height: auto;
+  margin-bottom: 16px;
+}
+
+.item-details {
+  width: 100%; 
+  text-align: center;
+  margin-bottom: 16px; 
+}
+
+.remove-button {
+  width: calc(100% - 16px); 
+  padding: 8px;
+  margin-top: 8px; 
+  background-color: red;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-primary {
+  padding: 8px;
+  margin-top: 8px; 
+  background-color: blue;
+  color: white;
+  border: none;
+  cursor: pointer;
+  width: auto; 
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.empty-cart {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; 
+}
+
+.empty-cart img {
+  max-width: 100%; 
+  max-height: 80vh; 
+  margin-bottom: 16px; 
+}
+
+.login-message {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.bold {
+  font-weight: bold;
+}

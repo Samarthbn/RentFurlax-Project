@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "65d737a0391f92f839834f63"
+  },
+  "id": 2,
+  "name": "Study Table",
+  "description": "Compact is what you need, and compact is what you get with the table.",
+  "condition": "good",
+  "noofdays": 10,
+  "category_id": "study",
+  "options": "{\"size\": \"medium\", \"color\": \"Natural brown\", \"image_url\": \"https://i.ibb.co/482rxfn/study-table.jpg\"}",
+  "rentaloptions": "[{\"tenure\": 3, \"rate_per_month\": \"540\"}, {\"tenure\": 6, \"rate_per_month\": \"500\"}, {\"tenure\": 9, \"rate_per_month\": \"470\"}, {\"tenure\": 12, \"rate_per_month\": \"420\"}]"
+},
+{
+  "_id": {
+    "$oid": "65d73931391f92f839834f64"
+  },
+  "id": 3,
+  "name": "Desk Lamp",
+  "description": "Illuminate your workspace with this sleek and modern LED desk lamp. Designed to enhance productivity and style, this lamp provides optimal lighting for any task, whether you're working late into the night or simply need some extra illumination for reading or studying.Enhance your workspace with the perfect blend of functionality and aesthetics.",
+  "condition": "excellent",
+  "noofdays": 15,
+  "category_id": "study",
+  "options": "{\"size\": \"small\", \"color\": \"Black\", \"image_url\": \"https://i.ibb.co/dB5jcB5/study-lamp.jpg\"}",
+  "rentaloptions": "[{\"tenure\": 3, \"rate_per_month\": \"30\"}, {\"tenure\": 6, \"rate_per_month\": \"25\"}, {\"tenure\": 9, \"rate_per_month\": \"20\"}, {\"tenure\": 12, \"rate_per_month\": \"15\"}]"
+},
+{
+  "_id": {
+    "$oid": "65d739a7391f92f839834f65"
+  },
+  "id": 4,
+  "name": "Bookshelf",
+  "description": "Organize your books and study materials with this sturdy and spacious bookshelf.",
+  "condition": "like new",
+  "noofdays": 30,
+  "category_id": "study",
+  "options": "{\"size\": \"large\", \"color\": \"Oak\", \"image_url\": \"https://i.ibb.co/DrS66f8/book-shlef.jpg\"}",
+  "rentaloptions": "[{\"tenure\": 1, \"rate_per_month\": \"50\"}, {\"tenure\": 3, \"rate_per_month\": \"45\"}, {\"tenure\": 6, \"rate_per_month\": \"40\"}, {\"tenure\": 12, \"rate_per_month\": \"35\"}]"
+},
+{
+  "_id": {
+    "$oid": "65e71733d528cb3391f44256"
+  },
+  "id": 5,
+  "name": "pen",
+  "description": "its a pen",
+  "condition": "good",
+  "noofdays": 10,
+  "category_id": "study",
+  "options": "{\"color\": \"Natural brown\", \"image_url\": null}",
+  "rentaloptions": "[{\"tenure\": 3, \"rate_per_month\": \"540\"}]"
+}]
